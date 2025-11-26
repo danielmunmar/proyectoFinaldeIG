@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/danie/OneDrive/Documentos/IG/proyectoFinaldeIG/build",
+  "command": "c:\\MinGW\\bin\\g++.exe  @CMakeFiles/proyectoFinaldeIG.dir/includes_CXX.rsp -g -o CMakeFiles\\proyectoFinaldeIG.dir\\src\\Model.cpp.obj -c C:\\Users\\danie\\OneDrive\\Documentos\\IG\\proyectoFinaldeIG\\src\\Model.cpp",
+  "file": "C:/Users/danie/OneDrive/Documentos/IG/proyectoFinaldeIG/src/Model.cpp",
+  "output": "CMakeFiles/proyectoFinaldeIG.dir/src/Model.cpp.obj"
+},
+{
+  "directory": "C:/Users/danie/OneDrive/Documentos/IG/proyectoFinaldeIG/build",
+  "command": "c:\\MinGW\\bin\\g++.exe  @CMakeFiles/proyectoFinaldeIG.dir/includes_CXX.rsp -g -o CMakeFiles\\proyectoFinaldeIG.dir\\src\\Shaders.cpp.obj -c C:\\Users\\danie\\OneDrive\\Documentos\\IG\\proyectoFinaldeIG\\src\\Shaders.cpp",
+  "file": "C:/Users/danie/OneDrive/Documentos/IG/proyectoFinaldeIG/src/Shaders.cpp",
+  "output": "CMakeFiles/proyectoFinaldeIG.dir/src/Shaders.cpp.obj"
+},
+{
+  "directory": "C:/Users/danie/OneDrive/Documentos/IG/proyectoFinaldeIG/build",
+  "command": "c:\\MinGW\\bin\\g++.exe  @CMakeFiles/proyectoFinaldeIG.dir/includes_CXX.rsp -g -o CMakeFiles\\proyectoFinaldeIG.dir\\src\\main.cpp.obj -c C:\\Users\\danie\\OneDrive\\Documentos\\IG\\proyectoFinaldeIG\\src\\main.cpp",
+  "file": "C:/Users/danie/OneDrive/Documentos/IG/proyectoFinaldeIG/src/main.cpp",
+  "output": "CMakeFiles/proyectoFinaldeIG.dir/src/main.cpp.obj"
+}
+]

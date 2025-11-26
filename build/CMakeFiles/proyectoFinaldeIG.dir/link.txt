@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\proyectoFinaldeIG.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\proyectoFinaldeIG.dir/objects.a @CMakeFiles\proyectoFinaldeIG.dir\objects1.rsp
+c:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\proyectoFinaldeIG.dir/objects.a -Wl,--no-whole-archive -o C:\Users\danie\OneDrive\Documentos\IG\proyectoFinaldeIG\binary\proyectoFinaldeIG.exe -Wl,--out-implib,C:\Users\danie\OneDrive\Documentos\IG\proyectoFinaldeIG\binary\libproyectoFinaldeIG.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\proyectoFinaldeIG.dir\linkLibs.rsp

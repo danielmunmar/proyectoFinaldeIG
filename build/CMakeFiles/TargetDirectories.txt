@@ -1,0 +1,3 @@
+C:/Users/danie/OneDrive/Documentos/IG/proyectoFinaldeIG/build/CMakeFiles/proyectoFinaldeIG.dir
+C:/Users/danie/OneDrive/Documentos/IG/proyectoFinaldeIG/build/CMakeFiles/edit_cache.dir
+C:/Users/danie/OneDrive/Documentos/IG/proyectoFinaldeIG/build/CMakeFiles/rebuild_cache.dir
